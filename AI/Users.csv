@@ -1,0 +1,1001 @@
+user_id,gender,travel_type,preferred_purpose,accommodation_type
+1,female,culture,啊练 咯青 格利,hotel
+2,female,luxury,诀公 免厘 格利,camping
+3,female,adventure,啊练 咯青 格利,airbnb
+4,male,luxury,肺盖平 咯青 格利,hotel
+5,female,city,啊练 咯青 格利,camping
+6,female,adventure,鳃傅/绒剧 格利,camping
+7,male,culture,鳃傅/绒剧 格利,camping
+8,female,adventure,啊练 咯青 格利,hotel
+9,female,nature,肺盖平 咯青 格利,hotel
+10,female,adventure,啊练 咯青 格利,airbnb
+11,female,adventure,肺盖平 咯青 格利,hotel
+12,male,culture,啊练 咯青 格利,airbnb
+13,female,adventure,鳃傅/绒剧 格利,airbnb
+14,female,luxury,肺盖平 咯青 格利,camping
+15,female,luxury,诀公 免厘 格利,camping
+16,female,adventure,啊练 咯青 格利,airbnb
+17,female,adventure,肺盖平 咯青 格利,camping
+18,female,adventure,啊练 咯青 格利,airbnb
+19,female,adventure,啊练 咯青 格利,hotel
+20,female,city,肺盖平 咯青 格利,hotel
+21,male,nature,肺盖平 咯青 格利,camping
+22,male,nature,啊练 咯青 格利,airbnb
+23,female,culture,诀公 免厘 格利,hotel
+24,male,luxury,诀公 免厘 格利,airbnb
+25,male,city,啊练 咯青 格利,hotel
+26,male,nature,肺盖平 咯青 格利,camping
+27,male,nature,诀公 免厘 格利,hotel
+28,male,city,诀公 免厘 格利,hotel
+29,female,culture,诀公 免厘 格利,camping
+30,female,city,啊练 咯青 格利,camping
+31,female,nature,鳃傅/绒剧 格利,hotel
+32,male,city,诀公 免厘 格利,airbnb
+33,male,culture,鳃傅/绒剧 格利,hotel
+34,male,luxury,肺盖平 咯青 格利,camping
+35,male,culture,肺盖平 咯青 格利,hotel
+36,male,adventure,肺盖平 咯青 格利,hotel
+37,male,city,诀公 免厘 格利,hotel
+38,male,culture,啊练 咯青 格利,camping
+39,female,city,啊练 咯青 格利,airbnb
+40,female,culture,鳃傅/绒剧 格利,camping
+41,male,city,鳃傅/绒剧 格利,hotel
+42,male,adventure,肺盖平 咯青 格利,camping
+43,male,city,啊练 咯青 格利,camping
+44,female,adventure,鳃傅/绒剧 格利,airbnb
+45,female,nature,啊练 咯青 格利,hotel
+46,female,luxury,鳃傅/绒剧 格利,airbnb
+47,male,culture,诀公 免厘 格利,hotel
+48,female,nature,肺盖平 咯青 格利,hotel
+49,female,city,啊练 咯青 格利,airbnb
+50,female,nature,啊练 咯青 格利,camping
+51,male,adventure,肺盖平 咯青 格利,camping
+52,male,adventure,诀公 免厘 格利,camping
+53,male,luxury,鳃傅/绒剧 格利,camping
+54,male,culture,诀公 免厘 格利,camping
+55,female,nature,啊练 咯青 格利,hotel
+56,male,city,鳃傅/绒剧 格利,camping
+57,male,culture,肺盖平 咯青 格利,hotel
+58,female,nature,啊练 咯青 格利,camping
+59,male,culture,肺盖平 咯青 格利,hotel
+60,female,nature,诀公 免厘 格利,camping
+61,male,luxury,啊练 咯青 格利,airbnb
+62,male,nature,肺盖平 咯青 格利,airbnb
+63,female,nature,肺盖平 咯青 格利,camping
+64,male,nature,啊练 咯青 格利,camping
+65,female,culture,肺盖平 咯青 格利,airbnb
+66,male,culture,诀公 免厘 格利,camping
+67,male,adventure,鳃傅/绒剧 格利,airbnb
+68,male,adventure,肺盖平 咯青 格利,hotel
+69,male,luxury,啊练 咯青 格利,hotel
+70,female,nature,啊练 咯青 格利,hotel
+71,female,city,诀公 免厘 格利,airbnb
+72,female,nature,肺盖平 咯青 格利,hotel
+73,male,adventure,肺盖平 咯青 格利,hotel
+74,male,city,诀公 免厘 格利,hotel
+75,female,luxury,啊练 咯青 格利,hotel
+76,female,culture,啊练 咯青 格利,hotel
+77,female,culture,啊练 咯青 格利,camping
+78,male,nature,鳃傅/绒剧 格利,camping
+79,male,culture,啊练 咯青 格利,camping
+80,male,nature,鳃傅/绒剧 格利,camping
+81,female,nature,鳃傅/绒剧 格利,airbnb
+82,female,nature,肺盖平 咯青 格利,hotel
+83,female,culture,啊练 咯青 格利,hotel
+84,male,city,诀公 免厘 格利,hotel
+85,female,adventure,啊练 咯青 格利,airbnb
+86,female,culture,啊练 咯青 格利,camping
+87,female,luxury,啊练 咯青 格利,hotel
+88,female,culture,啊练 咯青 格利,hotel
+89,female,city,鳃傅/绒剧 格利,camping
+90,male,luxury,鳃傅/绒剧 格利,airbnb
+91,female,nature,啊练 咯青 格利,airbnb
+92,male,luxury,鳃傅/绒剧 格利,camping
+93,female,adventure,鳃傅/绒剧 格利,hotel
+94,female,adventure,诀公 免厘 格利,hotel
+95,female,adventure,诀公 免厘 格利,hotel
+96,male,adventure,鳃傅/绒剧 格利,camping
+97,female,luxury,啊练 咯青 格利,airbnb
+98,male,nature,诀公 免厘 格利,airbnb
+99,male,luxury,啊练 咯青 格利,airbnb
+100,female,adventure,鳃傅/绒剧 格利,camping
+101,female,nature,啊练 咯青 格利,camping
+102,female,culture,肺盖平 咯青 格利,hotel
+103,male,nature,鳃傅/绒剧 格利,hotel
+104,female,adventure,诀公 免厘 格利,hotel
+105,male,luxury,鳃傅/绒剧 格利,camping
+106,male,culture,肺盖平 咯青 格利,camping
+107,male,city,鳃傅/绒剧 格利,airbnb
+108,male,culture,啊练 咯青 格利,airbnb
+109,male,city,鳃傅/绒剧 格利,airbnb
+110,female,adventure,啊练 咯青 格利,airbnb
+111,male,adventure,鳃傅/绒剧 格利,camping
+112,male,adventure,啊练 咯青 格利,hotel
+113,male,adventure,诀公 免厘 格利,hotel
+114,male,culture,肺盖平 咯青 格利,hotel
+115,female,adventure,肺盖平 咯青 格利,camping
+116,male,luxury,鳃傅/绒剧 格利,hotel
+117,male,nature,鳃傅/绒剧 格利,camping
+118,female,luxury,诀公 免厘 格利,airbnb
+119,male,culture,肺盖平 咯青 格利,hotel
+120,female,nature,鳃傅/绒剧 格利,airbnb
+121,female,luxury,鳃傅/绒剧 格利,hotel
+122,male,nature,鳃傅/绒剧 格利,camping
+123,male,culture,诀公 免厘 格利,hotel
+124,male,nature,啊练 咯青 格利,airbnb
+125,male,city,鳃傅/绒剧 格利,hotel
+126,female,luxury,肺盖平 咯青 格利,camping
+127,male,nature,鳃傅/绒剧 格利,camping
+128,male,culture,鳃傅/绒剧 格利,camping
+129,female,luxury,鳃傅/绒剧 格利,airbnb
+130,male,luxury,鳃傅/绒剧 格利,airbnb
+131,female,city,鳃傅/绒剧 格利,hotel
+132,male,nature,诀公 免厘 格利,hotel
+133,male,culture,鳃傅/绒剧 格利,airbnb
+134,female,adventure,鳃傅/绒剧 格利,airbnb
+135,male,city,诀公 免厘 格利,camping
+136,female,culture,诀公 免厘 格利,airbnb
+137,male,nature,啊练 咯青 格利,hotel
+138,male,adventure,诀公 免厘 格利,airbnb
+139,female,adventure,啊练 咯青 格利,camping
+140,male,culture,肺盖平 咯青 格利,airbnb
+141,male,culture,啊练 咯青 格利,hotel
+142,female,culture,啊练 咯青 格利,hotel
+143,female,culture,诀公 免厘 格利,hotel
+144,female,nature,诀公 免厘 格利,hotel
+145,female,city,肺盖平 咯青 格利,airbnb
+146,male,adventure,鳃傅/绒剧 格利,camping
+147,male,nature,肺盖平 咯青 格利,airbnb
+148,male,city,鳃傅/绒剧 格利,hotel
+149,male,adventure,啊练 咯青 格利,airbnb
+150,male,adventure,啊练 咯青 格利,camping
+151,male,adventure,鳃傅/绒剧 格利,hotel
+152,female,culture,啊练 咯青 格利,airbnb
+153,male,luxury,鳃傅/绒剧 格利,hotel
+154,male,city,鳃傅/绒剧 格利,airbnb
+155,male,city,鳃傅/绒剧 格利,hotel
+156,male,adventure,鳃傅/绒剧 格利,airbnb
+157,female,city,鳃傅/绒剧 格利,hotel
+158,male,city,肺盖平 咯青 格利,camping
+159,male,city,诀公 免厘 格利,camping
+160,male,city,啊练 咯青 格利,camping
+161,male,adventure,肺盖平 咯青 格利,hotel
+162,female,culture,鳃傅/绒剧 格利,airbnb
+163,female,city,诀公 免厘 格利,camping
+164,male,luxury,啊练 咯青 格利,camping
+165,female,nature,啊练 咯青 格利,hotel
+166,female,adventure,肺盖平 咯青 格利,airbnb
+167,male,city,啊练 咯青 格利,hotel
+168,female,nature,诀公 免厘 格利,airbnb
+169,female,adventure,诀公 免厘 格利,hotel
+170,female,city,肺盖平 咯青 格利,airbnb
+171,male,nature,肺盖平 咯青 格利,airbnb
+172,male,adventure,鳃傅/绒剧 格利,hotel
+173,male,adventure,诀公 免厘 格利,hotel
+174,female,nature,肺盖平 咯青 格利,hotel
+175,male,nature,肺盖平 咯青 格利,hotel
+176,female,city,诀公 免厘 格利,camping
+177,female,city,啊练 咯青 格利,camping
+178,male,culture,鳃傅/绒剧 格利,camping
+179,female,adventure,诀公 免厘 格利,camping
+180,female,culture,啊练 咯青 格利,camping
+181,female,city,啊练 咯青 格利,camping
+182,male,adventure,诀公 免厘 格利,camping
+183,female,culture,啊练 咯青 格利,hotel
+184,male,adventure,肺盖平 咯青 格利,camping
+185,female,adventure,鳃傅/绒剧 格利,airbnb
+186,female,luxury,肺盖平 咯青 格利,airbnb
+187,male,culture,鳃傅/绒剧 格利,airbnb
+188,male,culture,肺盖平 咯青 格利,airbnb
+189,male,adventure,啊练 咯青 格利,camping
+190,male,luxury,鳃傅/绒剧 格利,airbnb
+191,male,city,啊练 咯青 格利,airbnb
+192,female,city,啊练 咯青 格利,airbnb
+193,male,nature,鳃傅/绒剧 格利,hotel
+194,male,luxury,诀公 免厘 格利,camping
+195,male,nature,鳃傅/绒剧 格利,hotel
+196,male,culture,肺盖平 咯青 格利,airbnb
+197,male,city,诀公 免厘 格利,hotel
+198,male,city,诀公 免厘 格利,camping
+199,male,luxury,诀公 免厘 格利,camping
+200,male,luxury,啊练 咯青 格利,hotel
+201,female,culture,诀公 免厘 格利,hotel
+202,male,nature,肺盖平 咯青 格利,camping
+203,female,nature,肺盖平 咯青 格利,hotel
+204,female,adventure,诀公 免厘 格利,camping
+205,male,luxury,肺盖平 咯青 格利,camping
+206,male,nature,诀公 免厘 格利,camping
+207,female,luxury,诀公 免厘 格利,hotel
+208,female,nature,诀公 免厘 格利,airbnb
+209,female,luxury,肺盖平 咯青 格利,hotel
+210,female,luxury,鳃傅/绒剧 格利,airbnb
+211,female,adventure,诀公 免厘 格利,hotel
+212,male,culture,诀公 免厘 格利,hotel
+213,female,adventure,鳃傅/绒剧 格利,hotel
+214,female,luxury,啊练 咯青 格利,airbnb
+215,male,luxury,肺盖平 咯青 格利,airbnb
+216,female,adventure,肺盖平 咯青 格利,airbnb
+217,female,adventure,诀公 免厘 格利,hotel
+218,male,city,啊练 咯青 格利,camping
+219,female,nature,肺盖平 咯青 格利,hotel
+220,male,nature,肺盖平 咯青 格利,camping
+221,female,culture,肺盖平 咯青 格利,hotel
+222,male,city,鳃傅/绒剧 格利,hotel
+223,male,city,诀公 免厘 格利,hotel
+224,male,nature,鳃傅/绒剧 格利,airbnb
+225,male,luxury,诀公 免厘 格利,hotel
+226,male,city,诀公 免厘 格利,airbnb
+227,female,culture,鳃傅/绒剧 格利,hotel
+228,male,luxury,鳃傅/绒剧 格利,airbnb
+229,male,luxury,啊练 咯青 格利,airbnb
+230,female,city,肺盖平 咯青 格利,camping
+231,male,culture,肺盖平 咯青 格利,camping
+232,male,adventure,鳃傅/绒剧 格利,airbnb
+233,female,luxury,肺盖平 咯青 格利,hotel
+234,female,city,啊练 咯青 格利,airbnb
+235,male,adventure,肺盖平 咯青 格利,camping
+236,male,luxury,鳃傅/绒剧 格利,camping
+237,female,adventure,啊练 咯青 格利,airbnb
+238,male,nature,肺盖平 咯青 格利,airbnb
+239,male,adventure,肺盖平 咯青 格利,camping
+240,female,city,啊练 咯青 格利,hotel
+241,female,luxury,诀公 免厘 格利,hotel
+242,female,luxury,诀公 免厘 格利,hotel
+243,female,luxury,肺盖平 咯青 格利,hotel
+244,male,nature,诀公 免厘 格利,hotel
+245,female,nature,肺盖平 咯青 格利,hotel
+246,male,luxury,啊练 咯青 格利,airbnb
+247,female,city,肺盖平 咯青 格利,airbnb
+248,female,adventure,诀公 免厘 格利,hotel
+249,male,culture,肺盖平 咯青 格利,hotel
+250,male,adventure,诀公 免厘 格利,airbnb
+251,female,city,肺盖平 咯青 格利,airbnb
+252,female,adventure,啊练 咯青 格利,hotel
+253,male,luxury,啊练 咯青 格利,hotel
+254,male,luxury,鳃傅/绒剧 格利,airbnb
+255,male,adventure,鳃傅/绒剧 格利,airbnb
+256,female,nature,鳃傅/绒剧 格利,hotel
+257,female,adventure,啊练 咯青 格利,camping
+258,male,culture,啊练 咯青 格利,hotel
+259,female,nature,诀公 免厘 格利,camping
+260,male,luxury,鳃傅/绒剧 格利,airbnb
+261,male,culture,啊练 咯青 格利,airbnb
+262,female,city,鳃傅/绒剧 格利,airbnb
+263,male,luxury,肺盖平 咯青 格利,camping
+264,male,luxury,诀公 免厘 格利,hotel
+265,male,adventure,啊练 咯青 格利,hotel
+266,female,nature,诀公 免厘 格利,camping
+267,male,luxury,鳃傅/绒剧 格利,hotel
+268,female,city,肺盖平 咯青 格利,airbnb
+269,male,adventure,肺盖平 咯青 格利,airbnb
+270,male,adventure,诀公 免厘 格利,hotel
+271,female,culture,啊练 咯青 格利,camping
+272,female,nature,肺盖平 咯青 格利,camping
+273,female,city,肺盖平 咯青 格利,airbnb
+274,female,adventure,鳃傅/绒剧 格利,camping
+275,male,culture,鳃傅/绒剧 格利,hotel
+276,male,luxury,肺盖平 咯青 格利,airbnb
+277,female,culture,啊练 咯青 格利,camping
+278,female,nature,啊练 咯青 格利,hotel
+279,male,luxury,鳃傅/绒剧 格利,hotel
+280,male,city,鳃傅/绒剧 格利,airbnb
+281,female,city,肺盖平 咯青 格利,hotel
+282,male,culture,鳃傅/绒剧 格利,hotel
+283,female,nature,鳃傅/绒剧 格利,camping
+284,male,nature,诀公 免厘 格利,airbnb
+285,male,adventure,鳃傅/绒剧 格利,hotel
+286,female,adventure,肺盖平 咯青 格利,camping
+287,male,adventure,鳃傅/绒剧 格利,airbnb
+288,male,nature,啊练 咯青 格利,airbnb
+289,female,nature,鳃傅/绒剧 格利,airbnb
+290,female,city,肺盖平 咯青 格利,airbnb
+291,male,city,啊练 咯青 格利,hotel
+292,male,nature,肺盖平 咯青 格利,airbnb
+293,male,nature,啊练 咯青 格利,hotel
+294,female,luxury,鳃傅/绒剧 格利,camping
+295,male,adventure,鳃傅/绒剧 格利,camping
+296,female,culture,诀公 免厘 格利,camping
+297,male,city,鳃傅/绒剧 格利,hotel
+298,female,nature,诀公 免厘 格利,camping
+299,female,nature,诀公 免厘 格利,camping
+300,female,culture,鳃傅/绒剧 格利,hotel
+301,male,city,诀公 免厘 格利,airbnb
+302,male,city,肺盖平 咯青 格利,airbnb
+303,male,city,啊练 咯青 格利,hotel
+304,male,nature,鳃傅/绒剧 格利,airbnb
+305,female,nature,诀公 免厘 格利,camping
+306,male,adventure,肺盖平 咯青 格利,airbnb
+307,male,adventure,啊练 咯青 格利,hotel
+308,male,adventure,肺盖平 咯青 格利,camping
+309,male,city,啊练 咯青 格利,hotel
+310,male,luxury,啊练 咯青 格利,camping
+311,male,city,啊练 咯青 格利,airbnb
+312,male,city,啊练 咯青 格利,hotel
+313,male,city,鳃傅/绒剧 格利,airbnb
+314,male,nature,诀公 免厘 格利,airbnb
+315,female,culture,肺盖平 咯青 格利,camping
+316,male,adventure,鳃傅/绒剧 格利,camping
+317,male,adventure,啊练 咯青 格利,hotel
+318,female,adventure,诀公 免厘 格利,camping
+319,male,culture,啊练 咯青 格利,camping
+320,male,luxury,啊练 咯青 格利,airbnb
+321,female,luxury,肺盖平 咯青 格利,hotel
+322,male,luxury,诀公 免厘 格利,camping
+323,female,city,啊练 咯青 格利,camping
+324,female,luxury,诀公 免厘 格利,airbnb
+325,female,nature,诀公 免厘 格利,airbnb
+326,female,nature,肺盖平 咯青 格利,hotel
+327,male,luxury,诀公 免厘 格利,camping
+328,male,luxury,诀公 免厘 格利,camping
+329,female,culture,鳃傅/绒剧 格利,camping
+330,female,luxury,啊练 咯青 格利,camping
+331,male,nature,诀公 免厘 格利,airbnb
+332,female,culture,诀公 免厘 格利,airbnb
+333,male,luxury,啊练 咯青 格利,camping
+334,female,luxury,肺盖平 咯青 格利,hotel
+335,female,adventure,诀公 免厘 格利,airbnb
+336,male,adventure,鳃傅/绒剧 格利,camping
+337,female,luxury,鳃傅/绒剧 格利,hotel
+338,female,adventure,鳃傅/绒剧 格利,camping
+339,female,adventure,啊练 咯青 格利,camping
+340,female,nature,鳃傅/绒剧 格利,camping
+341,female,adventure,啊练 咯青 格利,airbnb
+342,male,adventure,鳃傅/绒剧 格利,airbnb
+343,female,adventure,鳃傅/绒剧 格利,hotel
+344,male,culture,肺盖平 咯青 格利,hotel
+345,male,adventure,鳃傅/绒剧 格利,camping
+346,female,luxury,鳃傅/绒剧 格利,hotel
+347,female,luxury,诀公 免厘 格利,airbnb
+348,female,luxury,肺盖平 咯青 格利,airbnb
+349,male,nature,啊练 咯青 格利,airbnb
+350,female,city,鳃傅/绒剧 格利,airbnb
+351,female,adventure,诀公 免厘 格利,camping
+352,male,luxury,啊练 咯青 格利,camping
+353,male,adventure,鳃傅/绒剧 格利,camping
+354,male,culture,鳃傅/绒剧 格利,airbnb
+355,female,city,诀公 免厘 格利,airbnb
+356,female,luxury,鳃傅/绒剧 格利,camping
+357,female,adventure,鳃傅/绒剧 格利,airbnb
+358,female,nature,鳃傅/绒剧 格利,hotel
+359,male,city,肺盖平 咯青 格利,airbnb
+360,female,culture,肺盖平 咯青 格利,camping
+361,male,luxury,啊练 咯青 格利,hotel
+362,male,nature,肺盖平 咯青 格利,camping
+363,female,culture,啊练 咯青 格利,camping
+364,female,luxury,鳃傅/绒剧 格利,hotel
+365,male,nature,诀公 免厘 格利,camping
+366,male,city,诀公 免厘 格利,hotel
+367,male,culture,鳃傅/绒剧 格利,airbnb
+368,male,adventure,诀公 免厘 格利,hotel
+369,female,adventure,肺盖平 咯青 格利,camping
+370,female,adventure,肺盖平 咯青 格利,hotel
+371,female,culture,诀公 免厘 格利,airbnb
+372,female,culture,肺盖平 咯青 格利,camping
+373,male,luxury,啊练 咯青 格利,hotel
+374,female,nature,啊练 咯青 格利,camping
+375,male,culture,鳃傅/绒剧 格利,airbnb
+376,male,luxury,肺盖平 咯青 格利,hotel
+377,male,nature,鳃傅/绒剧 格利,hotel
+378,male,luxury,鳃傅/绒剧 格利,hotel
+379,female,culture,诀公 免厘 格利,camping
+380,female,adventure,诀公 免厘 格利,camping
+381,male,culture,鳃傅/绒剧 格利,camping
+382,male,city,鳃傅/绒剧 格利,camping
+383,male,luxury,诀公 免厘 格利,camping
+384,female,luxury,啊练 咯青 格利,hotel
+385,female,nature,啊练 咯青 格利,camping
+386,male,city,诀公 免厘 格利,airbnb
+387,female,city,肺盖平 咯青 格利,hotel
+388,male,city,啊练 咯青 格利,hotel
+389,female,city,鳃傅/绒剧 格利,hotel
+390,female,city,啊练 咯青 格利,camping
+391,female,culture,啊练 咯青 格利,camping
+392,female,luxury,鳃傅/绒剧 格利,airbnb
+393,male,adventure,啊练 咯青 格利,airbnb
+394,male,culture,鳃傅/绒剧 格利,airbnb
+395,male,adventure,诀公 免厘 格利,airbnb
+396,female,luxury,啊练 咯青 格利,hotel
+397,male,luxury,肺盖平 咯青 格利,hotel
+398,female,culture,啊练 咯青 格利,hotel
+399,female,luxury,鳃傅/绒剧 格利,hotel
+400,female,culture,鳃傅/绒剧 格利,airbnb
+401,female,nature,肺盖平 咯青 格利,hotel
+402,male,culture,诀公 免厘 格利,camping
+403,male,adventure,诀公 免厘 格利,airbnb
+404,male,city,诀公 免厘 格利,airbnb
+405,male,city,诀公 免厘 格利,camping
+406,female,luxury,诀公 免厘 格利,hotel
+407,female,adventure,肺盖平 咯青 格利,airbnb
+408,female,adventure,啊练 咯青 格利,airbnb
+409,female,luxury,肺盖平 咯青 格利,hotel
+410,male,city,鳃傅/绒剧 格利,airbnb
+411,male,city,啊练 咯青 格利,hotel
+412,male,luxury,啊练 咯青 格利,hotel
+413,female,culture,啊练 咯青 格利,airbnb
+414,female,luxury,诀公 免厘 格利,hotel
+415,female,luxury,鳃傅/绒剧 格利,camping
+416,male,luxury,啊练 咯青 格利,hotel
+417,male,culture,诀公 免厘 格利,hotel
+418,female,city,鳃傅/绒剧 格利,hotel
+419,male,culture,啊练 咯青 格利,camping
+420,male,luxury,鳃傅/绒剧 格利,camping
+421,female,city,啊练 咯青 格利,camping
+422,female,nature,肺盖平 咯青 格利,hotel
+423,male,culture,肺盖平 咯青 格利,hotel
+424,male,city,肺盖平 咯青 格利,hotel
+425,male,nature,鳃傅/绒剧 格利,hotel
+426,male,luxury,啊练 咯青 格利,hotel
+427,male,city,肺盖平 咯青 格利,hotel
+428,male,nature,啊练 咯青 格利,hotel
+429,male,culture,诀公 免厘 格利,airbnb
+430,female,luxury,啊练 咯青 格利,airbnb
+431,male,city,肺盖平 咯青 格利,camping
+432,female,city,肺盖平 咯青 格利,airbnb
+433,female,city,啊练 咯青 格利,camping
+434,female,luxury,鳃傅/绒剧 格利,camping
+435,male,city,诀公 免厘 格利,airbnb
+436,male,adventure,肺盖平 咯青 格利,hotel
+437,female,luxury,鳃傅/绒剧 格利,camping
+438,male,city,鳃傅/绒剧 格利,airbnb
+439,male,nature,肺盖平 咯青 格利,hotel
+440,female,culture,诀公 免厘 格利,airbnb
+441,female,adventure,啊练 咯青 格利,airbnb
+442,male,luxury,肺盖平 咯青 格利,camping
+443,female,luxury,肺盖平 咯青 格利,camping
+444,female,luxury,肺盖平 咯青 格利,camping
+445,male,city,鳃傅/绒剧 格利,hotel
+446,male,culture,肺盖平 咯青 格利,airbnb
+447,female,city,肺盖平 咯青 格利,airbnb
+448,male,city,肺盖平 咯青 格利,airbnb
+449,male,adventure,鳃傅/绒剧 格利,camping
+450,male,adventure,鳃傅/绒剧 格利,airbnb
+451,female,adventure,鳃傅/绒剧 格利,camping
+452,female,adventure,鳃傅/绒剧 格利,airbnb
+453,female,culture,鳃傅/绒剧 格利,hotel
+454,female,nature,鳃傅/绒剧 格利,airbnb
+455,female,nature,肺盖平 咯青 格利,camping
+456,female,luxury,鳃傅/绒剧 格利,camping
+457,male,culture,鳃傅/绒剧 格利,camping
+458,female,luxury,诀公 免厘 格利,airbnb
+459,female,nature,诀公 免厘 格利,hotel
+460,female,culture,啊练 咯青 格利,camping
+461,female,nature,啊练 咯青 格利,airbnb
+462,male,adventure,啊练 咯青 格利,camping
+463,female,luxury,诀公 免厘 格利,airbnb
+464,female,nature,肺盖平 咯青 格利,airbnb
+465,female,adventure,肺盖平 咯青 格利,camping
+466,male,luxury,诀公 免厘 格利,hotel
+467,male,adventure,鳃傅/绒剧 格利,hotel
+468,female,city,诀公 免厘 格利,hotel
+469,male,adventure,鳃傅/绒剧 格利,hotel
+470,male,nature,诀公 免厘 格利,hotel
+471,female,culture,诀公 免厘 格利,camping
+472,male,nature,肺盖平 咯青 格利,airbnb
+473,female,nature,肺盖平 咯青 格利,camping
+474,female,city,啊练 咯青 格利,airbnb
+475,female,luxury,鳃傅/绒剧 格利,airbnb
+476,male,nature,鳃傅/绒剧 格利,camping
+477,male,luxury,诀公 免厘 格利,airbnb
+478,male,city,啊练 咯青 格利,camping
+479,female,luxury,鳃傅/绒剧 格利,camping
+480,female,adventure,肺盖平 咯青 格利,hotel
+481,male,luxury,鳃傅/绒剧 格利,airbnb
+482,female,adventure,鳃傅/绒剧 格利,hotel
+483,female,nature,啊练 咯青 格利,camping
+484,female,nature,肺盖平 咯青 格利,airbnb
+485,male,city,肺盖平 咯青 格利,hotel
+486,female,luxury,诀公 免厘 格利,airbnb
+487,male,luxury,肺盖平 咯青 格利,camping
+488,male,nature,啊练 咯青 格利,camping
+489,male,culture,诀公 免厘 格利,airbnb
+490,male,adventure,啊练 咯青 格利,hotel
+491,female,nature,诀公 免厘 格利,camping
+492,female,adventure,鳃傅/绒剧 格利,airbnb
+493,female,nature,鳃傅/绒剧 格利,hotel
+494,male,culture,鳃傅/绒剧 格利,hotel
+495,female,adventure,肺盖平 咯青 格利,airbnb
+496,female,luxury,肺盖平 咯青 格利,hotel
+497,female,nature,诀公 免厘 格利,airbnb
+498,female,luxury,鳃傅/绒剧 格利,hotel
+499,male,city,肺盖平 咯青 格利,hotel
+500,male,adventure,肺盖平 咯青 格利,hotel
+501,female,city,肺盖平 咯青 格利,camping
+502,female,luxury,鳃傅/绒剧 格利,hotel
+503,female,adventure,鳃傅/绒剧 格利,airbnb
+504,male,adventure,鳃傅/绒剧 格利,camping
+505,male,nature,肺盖平 咯青 格利,camping
+506,male,adventure,肺盖平 咯青 格利,hotel
+507,female,nature,诀公 免厘 格利,airbnb
+508,male,nature,肺盖平 咯青 格利,hotel
+509,male,nature,鳃傅/绒剧 格利,camping
+510,male,culture,肺盖平 咯青 格利,hotel
+511,female,culture,诀公 免厘 格利,airbnb
+512,female,luxury,啊练 咯青 格利,hotel
+513,male,city,啊练 咯青 格利,airbnb
+514,female,adventure,肺盖平 咯青 格利,camping
+515,female,city,肺盖平 咯青 格利,camping
+516,female,luxury,诀公 免厘 格利,camping
+517,male,adventure,肺盖平 咯青 格利,hotel
+518,female,nature,鳃傅/绒剧 格利,hotel
+519,male,nature,啊练 咯青 格利,hotel
+520,male,nature,鳃傅/绒剧 格利,airbnb
+521,male,culture,鳃傅/绒剧 格利,airbnb
+522,female,city,鳃傅/绒剧 格利,airbnb
+523,male,adventure,鳃傅/绒剧 格利,hotel
+524,female,culture,诀公 免厘 格利,hotel
+525,male,adventure,肺盖平 咯青 格利,hotel
+526,female,city,肺盖平 咯青 格利,hotel
+527,male,nature,啊练 咯青 格利,hotel
+528,female,city,肺盖平 咯青 格利,airbnb
+529,female,nature,诀公 免厘 格利,camping
+530,male,culture,啊练 咯青 格利,airbnb
+531,male,city,诀公 免厘 格利,hotel
+532,male,city,啊练 咯青 格利,camping
+533,female,adventure,肺盖平 咯青 格利,camping
+534,female,nature,啊练 咯青 格利,airbnb
+535,male,luxury,鳃傅/绒剧 格利,camping
+536,male,nature,啊练 咯青 格利,hotel
+537,male,nature,啊练 咯青 格利,airbnb
+538,male,nature,啊练 咯青 格利,hotel
+539,female,luxury,诀公 免厘 格利,hotel
+540,female,adventure,肺盖平 咯青 格利,hotel
+541,male,nature,鳃傅/绒剧 格利,hotel
+542,male,adventure,啊练 咯青 格利,camping
+543,female,luxury,鳃傅/绒剧 格利,camping
+544,male,nature,诀公 免厘 格利,hotel
+545,female,luxury,诀公 免厘 格利,hotel
+546,female,nature,啊练 咯青 格利,airbnb
+547,male,culture,诀公 免厘 格利,hotel
+548,male,city,诀公 免厘 格利,camping
+549,female,culture,诀公 免厘 格利,airbnb
+550,male,nature,啊练 咯青 格利,airbnb
+551,male,luxury,啊练 咯青 格利,hotel
+552,female,culture,诀公 免厘 格利,hotel
+553,male,luxury,肺盖平 咯青 格利,hotel
+554,female,city,肺盖平 咯青 格利,hotel
+555,female,culture,诀公 免厘 格利,airbnb
+556,male,culture,肺盖平 咯青 格利,airbnb
+557,female,nature,诀公 免厘 格利,airbnb
+558,male,luxury,诀公 免厘 格利,camping
+559,male,nature,啊练 咯青 格利,hotel
+560,male,city,肺盖平 咯青 格利,hotel
+561,male,city,肺盖平 咯青 格利,airbnb
+562,male,luxury,鳃傅/绒剧 格利,camping
+563,male,culture,啊练 咯青 格利,airbnb
+564,female,city,鳃傅/绒剧 格利,hotel
+565,female,luxury,诀公 免厘 格利,camping
+566,male,culture,肺盖平 咯青 格利,camping
+567,male,nature,肺盖平 咯青 格利,camping
+568,male,culture,啊练 咯青 格利,camping
+569,female,nature,鳃傅/绒剧 格利,airbnb
+570,female,adventure,啊练 咯青 格利,airbnb
+571,female,adventure,鳃傅/绒剧 格利,camping
+572,female,adventure,肺盖平 咯青 格利,hotel
+573,male,luxury,诀公 免厘 格利,hotel
+574,female,nature,肺盖平 咯青 格利,airbnb
+575,female,luxury,啊练 咯青 格利,hotel
+576,female,culture,鳃傅/绒剧 格利,airbnb
+577,male,culture,啊练 咯青 格利,airbnb
+578,female,city,鳃傅/绒剧 格利,airbnb
+579,female,adventure,诀公 免厘 格利,camping
+580,male,nature,啊练 咯青 格利,hotel
+581,male,nature,肺盖平 咯青 格利,hotel
+582,female,culture,诀公 免厘 格利,hotel
+583,male,culture,肺盖平 咯青 格利,airbnb
+584,male,nature,诀公 免厘 格利,hotel
+585,female,nature,啊练 咯青 格利,hotel
+586,male,city,鳃傅/绒剧 格利,hotel
+587,female,city,诀公 免厘 格利,camping
+588,female,luxury,啊练 咯青 格利,hotel
+589,male,nature,肺盖平 咯青 格利,camping
+590,female,luxury,啊练 咯青 格利,airbnb
+591,female,nature,肺盖平 咯青 格利,camping
+592,female,adventure,鳃傅/绒剧 格利,airbnb
+593,female,luxury,诀公 免厘 格利,airbnb
+594,female,adventure,鳃傅/绒剧 格利,hotel
+595,male,adventure,鳃傅/绒剧 格利,airbnb
+596,male,adventure,啊练 咯青 格利,hotel
+597,female,city,啊练 咯青 格利,hotel
+598,male,adventure,鳃傅/绒剧 格利,airbnb
+599,male,culture,诀公 免厘 格利,hotel
+600,male,nature,鳃傅/绒剧 格利,camping
+601,female,city,鳃傅/绒剧 格利,hotel
+602,male,nature,鳃傅/绒剧 格利,hotel
+603,male,nature,啊练 咯青 格利,airbnb
+604,female,city,肺盖平 咯青 格利,hotel
+605,female,nature,鳃傅/绒剧 格利,airbnb
+606,female,culture,啊练 咯青 格利,hotel
+607,male,nature,肺盖平 咯青 格利,airbnb
+608,male,city,鳃傅/绒剧 格利,hotel
+609,female,adventure,肺盖平 咯青 格利,airbnb
+610,male,city,啊练 咯青 格利,camping
+611,male,culture,诀公 免厘 格利,hotel
+612,male,luxury,肺盖平 咯青 格利,camping
+613,male,culture,肺盖平 咯青 格利,camping
+614,female,luxury,肺盖平 咯青 格利,hotel
+615,male,nature,鳃傅/绒剧 格利,airbnb
+616,male,adventure,鳃傅/绒剧 格利,hotel
+617,female,nature,肺盖平 咯青 格利,airbnb
+618,male,culture,啊练 咯青 格利,camping
+619,female,adventure,鳃傅/绒剧 格利,airbnb
+620,female,luxury,啊练 咯青 格利,airbnb
+621,male,adventure,鳃傅/绒剧 格利,hotel
+622,male,culture,鳃傅/绒剧 格利,camping
+623,female,luxury,鳃傅/绒剧 格利,hotel
+624,male,adventure,啊练 咯青 格利,camping
+625,female,adventure,鳃傅/绒剧 格利,airbnb
+626,female,nature,肺盖平 咯青 格利,hotel
+627,male,adventure,鳃傅/绒剧 格利,hotel
+628,male,city,鳃傅/绒剧 格利,hotel
+629,female,nature,肺盖平 咯青 格利,airbnb
+630,male,adventure,啊练 咯青 格利,hotel
+631,male,nature,鳃傅/绒剧 格利,hotel
+632,female,culture,啊练 咯青 格利,airbnb
+633,female,city,鳃傅/绒剧 格利,airbnb
+634,male,city,肺盖平 咯青 格利,hotel
+635,female,nature,诀公 免厘 格利,hotel
+636,male,luxury,鳃傅/绒剧 格利,hotel
+637,female,nature,肺盖平 咯青 格利,hotel
+638,female,city,鳃傅/绒剧 格利,airbnb
+639,male,luxury,诀公 免厘 格利,camping
+640,male,luxury,鳃傅/绒剧 格利,camping
+641,male,nature,啊练 咯青 格利,hotel
+642,male,culture,诀公 免厘 格利,hotel
+643,female,culture,啊练 咯青 格利,hotel
+644,female,culture,啊练 咯青 格利,hotel
+645,male,culture,肺盖平 咯青 格利,airbnb
+646,female,adventure,肺盖平 咯青 格利,hotel
+647,male,culture,啊练 咯青 格利,airbnb
+648,male,luxury,啊练 咯青 格利,airbnb
+649,male,luxury,鳃傅/绒剧 格利,camping
+650,female,culture,诀公 免厘 格利,airbnb
+651,female,city,鳃傅/绒剧 格利,camping
+652,female,adventure,鳃傅/绒剧 格利,airbnb
+653,male,city,肺盖平 咯青 格利,hotel
+654,female,culture,啊练 咯青 格利,camping
+655,female,city,肺盖平 咯青 格利,airbnb
+656,male,luxury,诀公 免厘 格利,hotel
+657,female,nature,诀公 免厘 格利,camping
+658,male,luxury,啊练 咯青 格利,camping
+659,female,city,鳃傅/绒剧 格利,airbnb
+660,female,nature,鳃傅/绒剧 格利,camping
+661,female,culture,肺盖平 咯青 格利,hotel
+662,female,culture,诀公 免厘 格利,hotel
+663,male,luxury,啊练 咯青 格利,camping
+664,male,culture,鳃傅/绒剧 格利,camping
+665,male,adventure,肺盖平 咯青 格利,airbnb
+666,male,nature,诀公 免厘 格利,airbnb
+667,female,culture,啊练 咯青 格利,hotel
+668,female,nature,鳃傅/绒剧 格利,camping
+669,female,nature,诀公 免厘 格利,camping
+670,female,nature,肺盖平 咯青 格利,airbnb
+671,male,nature,肺盖平 咯青 格利,hotel
+672,male,luxury,鳃傅/绒剧 格利,airbnb
+673,female,city,啊练 咯青 格利,airbnb
+674,male,city,肺盖平 咯青 格利,camping
+675,male,luxury,啊练 咯青 格利,airbnb
+676,female,culture,啊练 咯青 格利,hotel
+677,male,city,啊练 咯青 格利,hotel
+678,female,nature,啊练 咯青 格利,camping
+679,male,nature,肺盖平 咯青 格利,airbnb
+680,female,nature,肺盖平 咯青 格利,hotel
+681,female,adventure,诀公 免厘 格利,camping
+682,male,luxury,鳃傅/绒剧 格利,airbnb
+683,male,luxury,啊练 咯青 格利,airbnb
+684,male,adventure,啊练 咯青 格利,camping
+685,female,luxury,鳃傅/绒剧 格利,hotel
+686,female,luxury,肺盖平 咯青 格利,airbnb
+687,male,luxury,诀公 免厘 格利,camping
+688,male,city,鳃傅/绒剧 格利,camping
+689,female,adventure,鳃傅/绒剧 格利,camping
+690,male,city,肺盖平 咯青 格利,camping
+691,male,luxury,肺盖平 咯青 格利,camping
+692,female,city,啊练 咯青 格利,camping
+693,male,nature,啊练 咯青 格利,hotel
+694,female,city,诀公 免厘 格利,airbnb
+695,male,nature,啊练 咯青 格利,hotel
+696,male,luxury,鳃傅/绒剧 格利,airbnb
+697,female,luxury,肺盖平 咯青 格利,hotel
+698,male,city,肺盖平 咯青 格利,camping
+699,male,culture,肺盖平 咯青 格利,camping
+700,male,city,肺盖平 咯青 格利,airbnb
+701,female,culture,诀公 免厘 格利,airbnb
+702,female,nature,啊练 咯青 格利,camping
+703,female,adventure,鳃傅/绒剧 格利,hotel
+704,male,culture,鳃傅/绒剧 格利,hotel
+705,female,adventure,啊练 咯青 格利,airbnb
+706,female,luxury,诀公 免厘 格利,airbnb
+707,male,adventure,诀公 免厘 格利,airbnb
+708,female,nature,啊练 咯青 格利,hotel
+709,female,adventure,诀公 免厘 格利,hotel
+710,male,culture,诀公 免厘 格利,airbnb
+711,female,culture,诀公 免厘 格利,airbnb
+712,male,city,鳃傅/绒剧 格利,camping
+713,female,culture,肺盖平 咯青 格利,hotel
+714,male,culture,诀公 免厘 格利,airbnb
+715,male,adventure,诀公 免厘 格利,camping
+716,male,adventure,肺盖平 咯青 格利,hotel
+717,female,culture,诀公 免厘 格利,hotel
+718,male,luxury,啊练 咯青 格利,airbnb
+719,female,city,诀公 免厘 格利,hotel
+720,male,nature,啊练 咯青 格利,hotel
+721,female,nature,鳃傅/绒剧 格利,hotel
+722,male,luxury,诀公 免厘 格利,camping
+723,male,culture,诀公 免厘 格利,camping
+724,male,culture,肺盖平 咯青 格利,camping
+725,female,adventure,啊练 咯青 格利,airbnb
+726,male,nature,肺盖平 咯青 格利,hotel
+727,female,city,肺盖平 咯青 格利,airbnb
+728,female,luxury,诀公 免厘 格利,airbnb
+729,female,adventure,鳃傅/绒剧 格利,camping
+730,female,luxury,诀公 免厘 格利,airbnb
+731,female,city,鳃傅/绒剧 格利,camping
+732,female,culture,鳃傅/绒剧 格利,airbnb
+733,male,luxury,啊练 咯青 格利,camping
+734,female,adventure,肺盖平 咯青 格利,hotel
+735,female,culture,鳃傅/绒剧 格利,camping
+736,female,culture,肺盖平 咯青 格利,airbnb
+737,female,culture,鳃傅/绒剧 格利,hotel
+738,male,city,诀公 免厘 格利,camping
+739,male,city,诀公 免厘 格利,airbnb
+740,female,city,肺盖平 咯青 格利,camping
+741,female,luxury,鳃傅/绒剧 格利,hotel
+742,male,city,啊练 咯青 格利,camping
+743,female,adventure,诀公 免厘 格利,airbnb
+744,female,adventure,肺盖平 咯青 格利,hotel
+745,male,adventure,鳃傅/绒剧 格利,hotel
+746,female,culture,诀公 免厘 格利,camping
+747,male,nature,肺盖平 咯青 格利,airbnb
+748,female,culture,诀公 免厘 格利,hotel
+749,male,nature,鳃傅/绒剧 格利,airbnb
+750,female,luxury,肺盖平 咯青 格利,hotel
+751,male,adventure,肺盖平 咯青 格利,airbnb
+752,male,luxury,啊练 咯青 格利,camping
+753,male,adventure,诀公 免厘 格利,hotel
+754,female,culture,啊练 咯青 格利,hotel
+755,male,adventure,诀公 免厘 格利,airbnb
+756,female,city,肺盖平 咯青 格利,camping
+757,female,nature,诀公 免厘 格利,camping
+758,female,city,肺盖平 咯青 格利,hotel
+759,female,city,诀公 免厘 格利,airbnb
+760,female,luxury,鳃傅/绒剧 格利,camping
+761,female,adventure,肺盖平 咯青 格利,camping
+762,male,nature,鳃傅/绒剧 格利,airbnb
+763,female,culture,肺盖平 咯青 格利,camping
+764,female,adventure,鳃傅/绒剧 格利,airbnb
+765,female,nature,啊练 咯青 格利,hotel
+766,female,luxury,啊练 咯青 格利,camping
+767,female,luxury,肺盖平 咯青 格利,airbnb
+768,female,culture,诀公 免厘 格利,airbnb
+769,female,adventure,鳃傅/绒剧 格利,airbnb
+770,female,luxury,啊练 咯青 格利,hotel
+771,male,nature,啊练 咯青 格利,camping
+772,female,nature,鳃傅/绒剧 格利,hotel
+773,female,adventure,诀公 免厘 格利,camping
+774,female,adventure,肺盖平 咯青 格利,camping
+775,male,city,肺盖平 咯青 格利,airbnb
+776,female,culture,肺盖平 咯青 格利,camping
+777,male,culture,啊练 咯青 格利,airbnb
+778,female,nature,肺盖平 咯青 格利,camping
+779,male,nature,啊练 咯青 格利,airbnb
+780,female,adventure,诀公 免厘 格利,airbnb
+781,male,city,肺盖平 咯青 格利,hotel
+782,male,adventure,啊练 咯青 格利,camping
+783,male,nature,啊练 咯青 格利,airbnb
+784,male,luxury,啊练 咯青 格利,hotel
+785,female,culture,鳃傅/绒剧 格利,camping
+786,male,city,啊练 咯青 格利,airbnb
+787,female,luxury,啊练 咯青 格利,camping
+788,male,city,肺盖平 咯青 格利,hotel
+789,male,city,诀公 免厘 格利,airbnb
+790,male,nature,肺盖平 咯青 格利,hotel
+791,female,adventure,鳃傅/绒剧 格利,camping
+792,male,luxury,肺盖平 咯青 格利,hotel
+793,female,adventure,鳃傅/绒剧 格利,hotel
+794,female,adventure,诀公 免厘 格利,airbnb
+795,female,luxury,啊练 咯青 格利,airbnb
+796,female,luxury,肺盖平 咯青 格利,airbnb
+797,male,luxury,肺盖平 咯青 格利,hotel
+798,male,city,诀公 免厘 格利,hotel
+799,male,luxury,诀公 免厘 格利,airbnb
+800,female,nature,诀公 免厘 格利,hotel
+801,male,culture,鳃傅/绒剧 格利,hotel
+802,female,luxury,诀公 免厘 格利,airbnb
+803,male,city,啊练 咯青 格利,camping
+804,female,city,肺盖平 咯青 格利,camping
+805,female,culture,鳃傅/绒剧 格利,hotel
+806,female,adventure,肺盖平 咯青 格利,airbnb
+807,female,nature,诀公 免厘 格利,camping
+808,female,luxury,肺盖平 咯青 格利,airbnb
+809,male,luxury,鳃傅/绒剧 格利,camping
+810,male,nature,鳃傅/绒剧 格利,airbnb
+811,female,nature,啊练 咯青 格利,hotel
+812,female,culture,啊练 咯青 格利,camping
+813,male,nature,啊练 咯青 格利,airbnb
+814,female,culture,啊练 咯青 格利,camping
+815,female,luxury,诀公 免厘 格利,camping
+816,male,luxury,鳃傅/绒剧 格利,hotel
+817,male,culture,啊练 咯青 格利,hotel
+818,female,nature,肺盖平 咯青 格利,hotel
+819,male,city,啊练 咯青 格利,airbnb
+820,female,city,诀公 免厘 格利,hotel
+821,female,luxury,鳃傅/绒剧 格利,hotel
+822,female,adventure,鳃傅/绒剧 格利,camping
+823,female,culture,肺盖平 咯青 格利,airbnb
+824,male,luxury,鳃傅/绒剧 格利,airbnb
+825,male,culture,肺盖平 咯青 格利,camping
+826,female,city,啊练 咯青 格利,camping
+827,male,city,啊练 咯青 格利,camping
+828,female,luxury,肺盖平 咯青 格利,airbnb
+829,male,adventure,鳃傅/绒剧 格利,hotel
+830,female,nature,啊练 咯青 格利,hotel
+831,male,culture,诀公 免厘 格利,airbnb
+832,female,luxury,鳃傅/绒剧 格利,camping
+833,male,culture,诀公 免厘 格利,hotel
+834,female,luxury,啊练 咯青 格利,hotel
+835,female,luxury,诀公 免厘 格利,hotel
+836,female,city,鳃傅/绒剧 格利,airbnb
+837,male,luxury,肺盖平 咯青 格利,camping
+838,male,luxury,啊练 咯青 格利,hotel
+839,male,culture,啊练 咯青 格利,camping
+840,female,nature,肺盖平 咯青 格利,camping
+841,female,nature,鳃傅/绒剧 格利,airbnb
+842,female,nature,啊练 咯青 格利,camping
+843,male,culture,肺盖平 咯青 格利,hotel
+844,male,adventure,啊练 咯青 格利,hotel
+845,female,city,啊练 咯青 格利,airbnb
+846,female,nature,肺盖平 咯青 格利,camping
+847,male,nature,肺盖平 咯青 格利,camping
+848,female,luxury,啊练 咯青 格利,airbnb
+849,male,city,鳃傅/绒剧 格利,camping
+850,female,city,啊练 咯青 格利,hotel
+851,male,culture,诀公 免厘 格利,hotel
+852,female,adventure,诀公 免厘 格利,airbnb
+853,female,adventure,诀公 免厘 格利,hotel
+854,female,adventure,诀公 免厘 格利,hotel
+855,male,culture,诀公 免厘 格利,camping
+856,male,culture,肺盖平 咯青 格利,airbnb
+857,female,adventure,诀公 免厘 格利,airbnb
+858,male,luxury,啊练 咯青 格利,hotel
+859,female,culture,鳃傅/绒剧 格利,airbnb
+860,female,adventure,诀公 免厘 格利,camping
+861,female,culture,鳃傅/绒剧 格利,airbnb
+862,male,nature,肺盖平 咯青 格利,hotel
+863,male,luxury,诀公 免厘 格利,camping
+864,female,luxury,诀公 免厘 格利,airbnb
+865,female,city,肺盖平 咯青 格利,airbnb
+866,female,city,啊练 咯青 格利,camping
+867,male,city,鳃傅/绒剧 格利,airbnb
+868,male,culture,肺盖平 咯青 格利,airbnb
+869,male,city,鳃傅/绒剧 格利,airbnb
+870,female,city,肺盖平 咯青 格利,hotel
+871,female,culture,啊练 咯青 格利,camping
+872,male,luxury,诀公 免厘 格利,camping
+873,female,luxury,诀公 免厘 格利,airbnb
+874,male,city,啊练 咯青 格利,hotel
+875,male,city,啊练 咯青 格利,airbnb
+876,female,adventure,诀公 免厘 格利,hotel
+877,female,luxury,鳃傅/绒剧 格利,hotel
+878,male,city,啊练 咯青 格利,airbnb
+879,male,luxury,鳃傅/绒剧 格利,hotel
+880,male,luxury,啊练 咯青 格利,airbnb
+881,male,city,诀公 免厘 格利,camping
+882,male,nature,肺盖平 咯青 格利,camping
+883,male,city,诀公 免厘 格利,camping
+884,female,nature,啊练 咯青 格利,camping
+885,male,city,啊练 咯青 格利,camping
+886,female,adventure,啊练 咯青 格利,hotel
+887,male,culture,诀公 免厘 格利,airbnb
+888,male,city,啊练 咯青 格利,camping
+889,female,culture,鳃傅/绒剧 格利,camping
+890,female,luxury,鳃傅/绒剧 格利,airbnb
+891,female,adventure,啊练 咯青 格利,airbnb
+892,female,culture,诀公 免厘 格利,airbnb
+893,male,city,诀公 免厘 格利,airbnb
+894,male,culture,诀公 免厘 格利,hotel
+895,female,culture,啊练 咯青 格利,camping
+896,female,culture,肺盖平 咯青 格利,airbnb
+897,female,city,诀公 免厘 格利,airbnb
+898,male,culture,肺盖平 咯青 格利,hotel
+899,female,nature,诀公 免厘 格利,airbnb
+900,female,luxury,啊练 咯青 格利,hotel
+901,female,luxury,啊练 咯青 格利,hotel
+902,female,city,诀公 免厘 格利,airbnb
+903,female,culture,肺盖平 咯青 格利,hotel
+904,male,luxury,诀公 免厘 格利,hotel
+905,female,city,啊练 咯青 格利,hotel
+906,female,city,啊练 咯青 格利,hotel
+907,female,culture,肺盖平 咯青 格利,hotel
+908,female,city,肺盖平 咯青 格利,hotel
+909,male,culture,啊练 咯青 格利,camping
+910,male,city,诀公 免厘 格利,hotel
+911,male,luxury,肺盖平 咯青 格利,airbnb
+912,female,culture,诀公 免厘 格利,hotel
+913,male,nature,啊练 咯青 格利,hotel
+914,male,nature,啊练 咯青 格利,camping
+915,male,adventure,诀公 免厘 格利,airbnb
+916,male,adventure,鳃傅/绒剧 格利,hotel
+917,female,luxury,诀公 免厘 格利,airbnb
+918,male,adventure,啊练 咯青 格利,hotel
+919,female,nature,鳃傅/绒剧 格利,airbnb
+920,male,nature,啊练 咯青 格利,hotel
+921,female,nature,肺盖平 咯青 格利,hotel
+922,male,nature,诀公 免厘 格利,hotel
+923,male,city,鳃傅/绒剧 格利,hotel
+924,male,city,鳃傅/绒剧 格利,hotel
+925,male,city,鳃傅/绒剧 格利,airbnb
+926,male,city,鳃傅/绒剧 格利,airbnb
+927,male,nature,鳃傅/绒剧 格利,hotel
+928,male,nature,诀公 免厘 格利,camping
+929,female,culture,啊练 咯青 格利,airbnb
+930,female,adventure,啊练 咯青 格利,hotel
+931,male,adventure,鳃傅/绒剧 格利,hotel
+932,male,nature,肺盖平 咯青 格利,camping
+933,male,nature,鳃傅/绒剧 格利,camping
+934,female,culture,诀公 免厘 格利,camping
+935,female,culture,诀公 免厘 格利,airbnb
+936,male,city,啊练 咯青 格利,hotel
+937,female,luxury,诀公 免厘 格利,camping
+938,male,nature,鳃傅/绒剧 格利,hotel
+939,female,city,诀公 免厘 格利,camping
+940,male,nature,鳃傅/绒剧 格利,hotel
+941,male,nature,诀公 免厘 格利,airbnb
+942,male,luxury,啊练 咯青 格利,camping
+943,female,city,诀公 免厘 格利,camping
+944,female,city,肺盖平 咯青 格利,hotel
+945,male,city,啊练 咯青 格利,hotel
+946,female,city,诀公 免厘 格利,airbnb
+947,male,adventure,啊练 咯青 格利,airbnb
+948,female,culture,鳃傅/绒剧 格利,hotel
+949,female,city,诀公 免厘 格利,hotel
+950,female,nature,诀公 免厘 格利,airbnb
+951,female,adventure,鳃傅/绒剧 格利,camping
+952,female,adventure,肺盖平 咯青 格利,camping
+953,female,culture,鳃傅/绒剧 格利,airbnb
+954,female,adventure,啊练 咯青 格利,camping
+955,female,city,啊练 咯青 格利,camping
+956,male,adventure,诀公 免厘 格利,camping
+957,male,city,鳃傅/绒剧 格利,hotel
+958,male,adventure,诀公 免厘 格利,airbnb
+959,male,culture,鳃傅/绒剧 格利,airbnb
+960,female,culture,啊练 咯青 格利,airbnb
+961,female,adventure,肺盖平 咯青 格利,hotel
+962,female,adventure,鳃傅/绒剧 格利,airbnb
+963,male,culture,肺盖平 咯青 格利,camping
+964,male,adventure,肺盖平 咯青 格利,camping
+965,male,nature,诀公 免厘 格利,hotel
+966,female,culture,诀公 免厘 格利,airbnb
+967,female,adventure,鳃傅/绒剧 格利,hotel
+968,female,adventure,啊练 咯青 格利,airbnb
+969,male,nature,鳃傅/绒剧 格利,airbnb
+970,female,luxury,啊练 咯青 格利,hotel
+971,male,nature,啊练 咯青 格利,camping
+972,female,nature,啊练 咯青 格利,airbnb
+973,male,nature,啊练 咯青 格利,airbnb
+974,female,adventure,啊练 咯青 格利,camping
+975,female,culture,鳃傅/绒剧 格利,camping
+976,male,culture,诀公 免厘 格利,camping
+977,female,culture,啊练 咯青 格利,hotel
+978,female,nature,肺盖平 咯青 格利,airbnb
+979,male,luxury,鳃傅/绒剧 格利,hotel
+980,female,luxury,肺盖平 咯青 格利,airbnb
+981,male,adventure,肺盖平 咯青 格利,hotel
+982,male,nature,啊练 咯青 格利,hotel
+983,male,city,诀公 免厘 格利,airbnb
+984,male,luxury,啊练 咯青 格利,airbnb
+985,male,adventure,肺盖平 咯青 格利,hotel
+986,male,culture,啊练 咯青 格利,camping
+987,female,city,啊练 咯青 格利,camping
+988,female,nature,啊练 咯青 格利,hotel
+989,female,adventure,肺盖平 咯青 格利,hotel
+990,male,adventure,啊练 咯青 格利,camping
+991,male,nature,鳃傅/绒剧 格利,camping
+992,male,culture,诀公 免厘 格利,airbnb
+993,male,luxury,诀公 免厘 格利,hotel
+994,male,adventure,啊练 咯青 格利,hotel
+995,male,culture,肺盖平 咯青 格利,airbnb
+996,male,adventure,鳃傅/绒剧 格利,hotel
+997,male,nature,诀公 免厘 格利,hotel
+998,male,culture,鳃傅/绒剧 格利,airbnb
+999,male,city,诀公 免厘 格利,hotel
+1000,male,adventure,啊练 咯青 格利,hotel
