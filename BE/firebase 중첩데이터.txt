@@ -1,0 +1,14 @@
+{
+  "users": {
+    "1": {
+      "username": "user1",
+      "email": "user1@example.com",
+      "guides": {
+        "guide_id": {
+          "bio": "Certified guide with 5 years of experience",
+          "certification_status": "certified"
+        }
+      }
+    }
+  }
+}
